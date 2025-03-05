@@ -20,7 +20,7 @@
 // let num = 78;
 // while (num <= 98){
 //     console.log("even numbers from 78 to 98:", num);
-//     num = num + 2;    
+//     num = num + 2;
 // }
 
 // task 3
@@ -46,3 +46,12 @@
 // }
 
 // console.log("sum of even numbers from 206 to 311: ", sum);
+
+// task 4
+// multiplication table
+let num = 5;
+let sum = 1;
+while (sum <= 10) {
+	console.log(num + " * " + sum + " = " + num * sum);
+	sum++;
+}
