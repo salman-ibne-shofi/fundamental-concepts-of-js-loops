@@ -49,9 +49,16 @@
 
 // task 4
 // multiplication table
-let num = 5;
-let sum = 1;
-while (sum <= 10) {
-	console.log(num + " * " + sum + " = " + num * sum);
-	sum++;
-}
+// let num = 5;
+// let sum = 1;
+// while (sum <= 10) {
+// 	console.log(num + " * " + sum + " = " + num * sum);
+// 	sum++;
+// }
+
+// task 5
+// let count = 21;
+// while (count >= 15) {
+// 	console.log(count);
+// 	count--;
+// }
